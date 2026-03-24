@@ -2,14 +2,6 @@
 
 A search assistant that orchestrates multiple search tools (Google, Bing, Perplexity, Reddit, Tavily, and DuckDuckGo) to deliver thorough and cited answers.
 
-## Demo
-
-
-https://github.com/user-attachments/assets/9934fef7-50d4-4ca8-959d-bccbe964675f
-
-
-
-
 ## Features
 
 * **Diverse Search Toolset**: Integrates 6 distinct search capabilities:
