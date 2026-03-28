@@ -186,6 +186,9 @@ app = graph.compile()
 
 
 if __name__ == '__main__':
-    q = input("Query> ")
-    print(app.invoke({'query': q})['answer'])
+    while True:
+        q = input("Query> ")
+        if q.lower() == 'quit':
+            break
+        print(app.invoke({'query': q})['answer'])
 
